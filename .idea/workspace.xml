@@ -1,14 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5172e7dd-a8ca-4fd0-9298-afba21bc00bf" name="Changes" comment="" />
+    <list default="true" id="5172e7dd-a8ca-4fd0-9298-afba21bc00bf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java2DComputerGraphics.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Artifacts.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/ChimneyAndVent.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/WindowAndDoor.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2JVUXtcIy8exBtlslwOtZBl5tnu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -20,10 +42,38 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/NANA_BOAKYE/IdeaProjects/Java2DComputerGraphics",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Java2DComputerGraphics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransparencyExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TransparencyExample" />
+      <module name="Java2DComputerGraphics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.TransparencyExample" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\NANA_BOAKYE\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="5172e7dd-a8ca-4fd0-9298-afba21bc00bf" name="Changes" comment="" />
@@ -31,7 +81,57 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672162789658</updated>
+      <workItem from="1672162795093" duration="6890000" />
+      <workItem from="1672171651812" duration="597000" />
+      <workItem from="1672215654854" duration="1067000" />
+      <workItem from="1672217259218" duration="53938000" />
+      <workItem from="1672592588891" duration="1689000" />
+      <workItem from="1672594703774" duration="3535000" />
+      <workItem from="1672669444490" duration="44481000" />
+      <workItem from="1672769649091" duration="18975000" />
+      <workItem from="1672836116600" duration="107000" />
+      <workItem from="1672836905180" duration="150000" />
+      <workItem from="1672837149077" duration="6542000" />
+      <workItem from="1672848058827" duration="715000" />
+      <workItem from="1672849121263" duration="295000" />
+      <workItem from="1672850165035" duration="645000" />
+      <workItem from="1672854325109" duration="4988000" />
+      <workItem from="1672860656649" duration="94000" />
+      <workItem from="1672861029640" duration="5619000" />
+      <workItem from="1672870940660" duration="1911000" />
+      <workItem from="1672903442507" duration="12902000" />
+      <workItem from="1672924380774" duration="30790000" />
+      <workItem from="1672979531926" duration="304000" />
+      <workItem from="1672980240282" duration="4278000" />
+      <workItem from="1673026837192" duration="820000" />
+      <workItem from="1673071437834" duration="56868000" />
+      <workItem from="1673136652803" duration="59000" />
+      <workItem from="1673160658212" duration="70466000" />
+      <workItem from="1673243825728" duration="1912000" />
+      <workItem from="1673255373177" duration="4159000" />
+      <workItem from="1673292778981" duration="11282000" />
+      <workItem from="1673370161605" duration="155000" />
+      <workItem from="1673453418844" duration="99000" />
+      <workItem from="1673969168789" duration="1092000" />
+      <workItem from="1673970292724" duration="12000" />
+      <workItem from="1673970439781" duration="44000" />
+      <workItem from="1673983592163" duration="142000" />
+      <workItem from="1673983817180" duration="574000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
