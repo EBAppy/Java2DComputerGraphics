@@ -65,7 +65,7 @@ public class Mountain {
     }
 
 
-    //draw the yellow mountain
+    //draw the yellow mountain high land
     public void drawMountainGround(Graphics2D g2d){
         Path2D.Double mountainOutline = new Path2D.Double();
 
